@@ -100,3 +100,21 @@ select album.title, artist.name
 from album
 join artist
 on artist.artist_id = album.artist_id;
+
+
+
+-- Extra Credit - SQL
+-- Artist Table
+
+-- 1. Select 10 artists in reverse alphabetical order.
+
+
+
+-- 2. Select all artists that start with the word ‘Black’.
+
+
+
+-- 3. Select all artists that contain the word ‘Black’.
+
+
+
